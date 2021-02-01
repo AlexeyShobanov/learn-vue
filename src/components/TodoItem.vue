@@ -5,7 +5,7 @@
             <strong>{{todo.id}}</strong>
             {{todo.title}}
         </span>
-        <button>&times;</button>
+        <button rm>&times;</button>
     </li>
 </template>
 
